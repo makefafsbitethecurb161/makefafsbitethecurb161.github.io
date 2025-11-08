@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: 'Robot Heroes';
-    src: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/fonts/robot-hero/Robot Heroes.woff');
+    src: url('./img/fonts/robot-hero/Robot Heroes.woff');
 }
 #section-titre {
     color: red;
@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/background/immage-1.JPG');
+    background-image: url('./img/background/immage-1.jpg');
       background-size: cover;
       background-position: top;
       background-attachment: scroll;
@@ -25,7 +25,7 @@ body {
     }
 
     .boite1 {
-      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-histoire.jpg');
+      background-image: url('./img/boites-icones/immage-histoire.jpg');
       width: 200px;
       height: 200px;
       overflow: hidden;
@@ -50,7 +50,7 @@ body {
     }
 
     .boite2 {
-      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-regles.jpg');
+      background-image: url('./img/boites-icones/immage-regles.jpg');
       width: 200px;
       height: 200px;
       overflow: hidden;
@@ -75,7 +75,7 @@ body {
     }
 
     .boite3 {
-      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-promotions.jpg');
+      background-image: url('./img/boites-icones/immage-promotions.jpg');
       width: 200px;
       height: 200px;
       overflow: hidden;
