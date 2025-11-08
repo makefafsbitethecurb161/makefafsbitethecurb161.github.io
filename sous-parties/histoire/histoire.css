@@ -4,10 +4,10 @@ body {
 
 @font-face {
     font-family: 'Robot Heroes';
-    src: url('./img/fonts/robot-hero/robot-heroes.woff.otf');
+    src: url('../../img/fonts/robot-hero/robot-heroes.woff.otf');
 }
 body {
-    background-image: url('.img/background/immage-1.jpg');
+    background-image: url('../..img/background/immage-1.jpg');
       background-size: cover;
       background-position: top;
       background-attachment: scroll;
@@ -26,7 +26,7 @@ body {
 }
 
 .boite4 {
-      background-image: url('./img/boites-icones/immage-boutonmenu.jpg');
+      background-image: url('../../img/boites-icones/immage-boutonmenu.jpg');
       width: 150px;
       height: 100px;
       overflow: hidden;
@@ -53,7 +53,7 @@ body {
     .texte-histoire {
       width: 80vw;
       height: 45vh;
-      background-image: url('./img/boites-icones/immage-fondtexte.jpg');
+      background-image: url('../../img/boites-icones/immage-fondtexte.jpg');
       overflow: hidden;
       display: flex;
       flex-direction: column;
