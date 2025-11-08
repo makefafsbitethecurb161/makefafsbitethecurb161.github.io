@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: 'Robot Heroes';
-    src: url('./img/fonts/robot-hero/Robot Heroes.woff');
+    src: url('./img/fonts/robot-hero/Robot Heroes.woff.otf');
 }
 #section-titre {
     color: red;
