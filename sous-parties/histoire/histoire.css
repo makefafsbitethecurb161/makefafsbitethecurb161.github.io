@@ -7,7 +7,7 @@ body {
     src: url('../../img/fonts/robot-hero/robot-heroes.woff.otf');
 }
 body {
-    background-image: url('../..img/background/immage-1.jpg');
+    background-image: url('../../img/background/immage-1.jpg');
       background-size: cover;
       background-position: top;
       background-attachment: scroll;
