@@ -1,0 +1,102 @@
+body {
+  background-color: #000000;
+}
+
+@font-face {
+    font-family: 'Robot Heroes';
+    src: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/fonts/robot-hero/Robot Heroes.woff');
+}
+#section-titre {
+    color: red;
+    font-family: 'Robot Heroes';
+    font-size: 45px;
+    text-align: center;
+}
+
+body {
+    background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/background/immage-1.JPG');
+      background-size: cover;
+      background-position: top;
+      background-attachment: scroll;
+      height: 400px;
+      padding: 0px;
+      margin: 0px;
+      background-repeat: no-repeat;
+    }
+
+    .boite1 {
+      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-histoire.jpg');
+      width: 200px;
+      height: 200px;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+      border-bottom-left-radius: 10%;
+      border-bottom-right-radius: 10%;
+      border-top-left-radius: 10%;
+      border-top-right-radius: 10%;
+      position : fixed;
+      top : 50%;
+      left : 30%;
+      transform: translate(-50%, -50%);
+      border: #ffffff solid 1px;
+      font-family: 'Robot Heroes';
+      text-align: center;
+      font-size: 23px;
+      text-shadow: 2px 2px 20px black;
+      color: red;
+    }
+
+    .boite2 {
+      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-regles.jpg');
+      width: 200px;
+      height: 200px;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+      border-bottom-left-radius: 10%;
+      border-bottom-right-radius: 10%;
+      border-top-left-radius: 10%;
+      border-top-right-radius: 10%;
+      position : fixed;
+      top : 50%;
+      left : 50%;
+      transform: translate(-50%, -50%);
+      border: #ffffff solid 1px;
+      font-family: 'Robot Heroes';
+      text-align: center;
+      font-size: 23px;
+      text-shadow: 2px 2px 20px black;
+      color: red;
+    }
+
+    .boite3 {
+      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-promotions.jpg');
+      width: 200px;
+      height: 200px;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+      border-bottom-left-radius: 10%;
+      border-bottom-right-radius: 10%;
+      border-top-left-radius: 10%;
+      border-top-right-radius: 10%;
+      position : fixed;
+      top : 50%;
+      left : 70%;
+      transform: translate(-50%, -50%);
+      border: #ffffff solid 1px;
+      font-family: 'Robot Heroes';
+      text-align: center;
+      font-size: 23px;
+      text-shadow: 2px 2px 20px black;
+      color: red;
+
+    }
+
